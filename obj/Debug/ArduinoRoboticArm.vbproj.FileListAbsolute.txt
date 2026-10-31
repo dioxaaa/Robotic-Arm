@@ -1,0 +1,12 @@
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\bin\Debug\ArduinoRoboticArm.exe.config
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\bin\Debug\ArduinoRoboticArm.exe
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\bin\Debug\ArduinoRoboticArm.pdb
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\bin\Debug\ArduinoRoboticArm.xml
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\obj\Debug\ArduinoRoboticArm.vbproj.AssemblyReference.cache
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\obj\Debug\ArduinoRoboticArm.Form1.resources
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\obj\Debug\ArduinoRoboticArm.Resources.resources
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\obj\Debug\ArduinoRoboticArm.vbproj.GenerateResource.cache
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\obj\Debug\ArduinoRoboticArm.vbproj.CoreCompileInputs.cache
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\obj\Debug\ArduinoRoboticArm.exe
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\obj\Debug\ArduinoRoboticArm.xml
+C:\Users\KIM\source\repos\ArduinoRoboticArm\ArduinoRoboticArm\obj\Debug\ArduinoRoboticArm.pdb
